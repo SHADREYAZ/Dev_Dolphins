@@ -37,6 +37,6 @@ The `TransactionPatternProject` is designed to detect specific patterns in trans
 
 ## Directory Structure
 - `/Volumes/workspace/default/myprojectdata/transactions.csv`: Input transactions file.
+- `/Volumes/workspace/default/myprojectdata/CustomerImportance.csv`: Input transactions file.
 - `/Volumes/workspace/default/myprojectdata/raw_chunks/`: Directory for storing transaction chunks.
 - `/Volumes/workspace/default/myprojectdata/output_bucket/`: Directory for storing detection results.
-- `/Volumes/workspace/default/myprojectdata/processed_file/`: Directory for storing processed chunks.
